@@ -177,6 +177,7 @@ Welcome to my GitHub profile! I'm Muhammad Hamza Hassaan, a Full Stack Web Devel
 <h2 align="center">Development Metrics &nbsp <img align="center" height="76" src="https://i.pinimg.com/originals/f9/e5/30/f9e530a26254aba5c1ce4469d6ceba43.gif"  /></h2>
 <!-- GitHub Stats -->
 <div align="center">
+    
  ![](https://github-readme-stats.vercel.app/api?username=Code-Damn-Hamza&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Damn-Hamza&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false)<br/>-->
