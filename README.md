@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/LakshmanKishore/mywebsite/6b6195c5a0ef1f12d6d85cd2f120712aefb6758c/public/customhero.png">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -22,18 +22,21 @@ Welcome to my GitHub profile! I'm Muhammad Hamza Hassaan, a Full Stack Web Devel
 
 <em><b>About Me:</b></em>
 
-💼 Currently working at 1Dynamics as a low code developer.
+💼 Currently working at ICodeGuru as a DSA Trainer.
 
-💡  Currently working as a Branding Consultant at PWiC (Pakistan Women in Computing) and an Ambassador of Ponder Alliance 
+💡  Currently working on Backend Development in Node Js.
 
-💻 Proficient in front-end development alongside Microsoft Power Platform.
+💡  Currently working on MATLAB. 
+
+💻 Proficient in front-end development alongside Microsoft Office PlatformS.
+
+💻 Proficient in Python and JavaScript.
 
 🔍 Passionate about creating intuitive user interfaces and enhancing user experiences.
 
+🌎 Linkedin: <a href="https://www.linkedin.com/in/muhammad-hamza-hassaan-29920a25a/" target="_blank">M. Hamza Hassaan</a>
 
-🌎 Linkedin: <a href="https://www.linkedin.com/in/momina-sheikh-24660926b/" target="_blank">Momina Sheikh</a>
-
-✉️ Email: mominasheikh.dev@gmail.com
+✉️ Email: damn.code.hamza@gmail.com
 
 
 
@@ -81,22 +84,26 @@ Welcome to my GitHub profile! I'm Muhammad Hamza Hassaan, a Full Stack Web Devel
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
-      <br>HTML5
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+      <br>Github
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" />
-      <br>CSS
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="Express" />
+      <br>Express
     </td>
   </tr>
   <tr>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
+      <br>HTML5
+    </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="bootstrap" />
       <br>Bootstrap
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" />
+      <br>CSS
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60" alt="Git" />
@@ -119,50 +126,19 @@ Welcome to my GitHub profile! I'm Muhammad Hamza Hassaan, a Full Stack Web Devel
       <br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter" />
-      <br>Flutter
+        <img src="https://skillicons.dev/icons?i=matlab" width="60" height="60" alt="Flutter" />
+      <br>MATLAB
     </td>
     <td align="center" width="96">
-        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-dart-9294871-7578014.png?f=webp"width="60" height="60" alt="Dart" />
-      <br>Dart
+        <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
+      <br>Figma
     </td>
   </tr>
  <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="Express" />
-      <br>Express
-    </td>
-        <td align="center" width="96">
-        <img src="https://seekvectors.com/files/download/microsoft%20office%20powerapp-01.png" width="60" height="60" alt="Power Platform" />
-      <br>Power Platform
-      </td>
-      </td>
     <td align="center" width="96">
-        <img src="https://waypathconsulting.com/wp-content/uploads/2024/01/powerPages.png" width="60" height="60" alt="Power Pages" />
-      <br>Power Pages
+        <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" />
+      <br>C++
     </td>
-            <td align="center" width="96">
-        <img src="https://static-00.iconduck.com/assets.00/power-virtual-agents-colored-icon-2048x1957-d1kff0zn.png" width="60" height="60" alt="Power Virtual Agent" />
-      <br>Power VA
-    </td>
-              <td align="center" width="96">
-        <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="60" height="60" alt="Power BI" />
-      <br>Power BI
-    </td>
-              <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" width="60" height="60" alt="Power Automate" />
-      <br>Power Automate
-  <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.prod.website-files.com/6569b474d6018f8bee226c62/65c4c223830da32f716e35e6_Dynamics365-logo.png" alt="icon" width="60" height="60" />
-      </a>
-      <br>Dynamics 365
-    </td>
-              <td align="center" width="96">
-        <img src="https://prakashinfotech.com/wp-content/uploads/2023/08/ai-builder-logo.png" width="60" height="60" alt="AI Builder" />
-      <br>AI Builder
-    </td>
-  
  </tr>
 </table>
 <br><br>
@@ -181,34 +157,26 @@ Welcome to my GitHub profile! I'm Muhammad Hamza Hassaan, a Full Stack Web Devel
   <a href="https://www.discordapp.com/users/1140956713709731921" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" target="_blank" />
   </a>
-  <a href="https://youtube.com/@MominaaSheikh?si=vtXtMW96tBzVMCYP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  target="_blank"/>
-  </a>
-  <a href="mailto:mominasheikh.dev@gmail.com" target="_blank">
+  <a href="mailto:damn.code.hamza@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" target="_blank"/>
   </a>
-  <a href="https://www.instagram.com/mominasheikh_here?igsh=a3JoazQ3cTRpNWhp" target="_blank">
+  <a href="https://www.instagram.com/hz._hamza/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" target="_blank" />
   </a>
-  <a href="https://stackoverflow.com/users/24058795/momina-sheikh" target="_blank">
+  <a href="https://stackoverflow.com/users/25331889/muhammad-hamza-hassaan?tab=profile" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="45" alt="Stackoverflow" target="_blank" />
   </a>
-  <a href="https://medium.com/@your-medium-username" target="_blank">
+  <a href="[https://medium.com/@your-medium-username](https://medium.com/@mhhassaan.1)" target="_blank">
     <i class="fa-brands fa-medium"></i>
   </a>
-  <a href="https://www.reddit.com/user/your-reddit-username/" target="_blank">
+  <a href="https://www.reddit.com/user/Normal_Meal4742/" target="_blank">
     <i class="fa-brands fa-reddit"></i>
 </div>
-
-
-
 </br>
 </br>
-
 <h2 align="center">Development Metrics &nbsp <img align="center" height="76" src="https://i.pinimg.com/originals/f9/e5/30/f9e530a26254aba5c1ce4469d6ceba43.gif"  /></h2>
 <!-- GitHub Stats -->
 <div align="center">
-    
  ![](https://github-readme-stats.vercel.app/api?username=Code-Damn-Hamza&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Damn-Hamza&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false)<br/>-->
@@ -220,17 +188,11 @@ Welcome to my GitHub profile! I'm Muhammad Hamza Hassaan, a Full Stack Web Devel
 
 
 <h2 align="center">My Stats &nbsp <img align="center" height="60" src="https://media3.giphy.com/media/JGmjLpmTPS5QmgLFAM/200w.gif?cid=6c09b952diq04qijhug95rdyexgw7zmola6gzeosi47jb7bp&ep=v1_gifs_search&rid=200w.gif&ct=s"  /> </h2>
-
-
-
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Damn-Hamza&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
-
 <br>
 <br>
 <h2 align="center">Github Graph &nbsp <img align="center" height="50" src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif"  /> </h2>
-
 [![Code-Damn-Hamza github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Code-Damn-Hamza&theme=github-compact	)](https://github.com/Code-Damn-Hamza/github-readme-activity-graph)
-
 ###
